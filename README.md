@@ -6,4 +6,4 @@ The Following course on Machine Learning on Coursera, the assignments of this co
 
 # Assignments
 
-https://github.com/Devanshu-singh-VR/Machine-Learning-Python/tree/main/Machine%20Learning/1.linear%20regression
+ 1 [linear regression](https://github.com/Devanshu-singh-VR/Machine-Learning-Python/tree/main/Machine%20Learning/1.linear%20regression)
