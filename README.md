@@ -6,4 +6,6 @@ The Following course on Machine Learning on Coursera, the assignments of this co
 
 # Assignments
 
- 1 [linear regression](https://github.com/Devanshu-singh-VR/Machine-Learning-Python/tree/main/Machine%20Learning/1.linear%20regression)
+ 1 [Linear Regression](https://github.com/Devanshu-singh-VR/Machine-Learning-Python/tree/main/Machine%20Learning/1.linear%20regression)
+ 2 [Logistic Regression](https://github.com/Devanshu-singh-VR/Machine-Learning-Python/tree/main/Machine%20Learning/2.logestic%20regression)
+ 3 [Error Analysis (Bias | Varience)](https://github.com/Devanshu-singh-VR/Machine-Learning-Python/tree/main/Machine%20Learning/3.neural%20network)
