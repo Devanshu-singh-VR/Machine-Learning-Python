@@ -2,7 +2,7 @@
 
 # Machine Learning
 
-The Following course on Machine Learning on Coursera, the assignments of this course are concatinated with MATLAB, as we know that Python is mostly upvoted language for machine learning. In this repositery you will find the Python codes for the machine learning assignments as mentioned in the course of ML. Following with numpy, scipy, pandas, matplotlib
+The Following course on Machine Learning on Coursera, the assignments of this course are conducted with MATLAB, as we know that Python is mostly upvoted language for machine learning. In this repository, you will find the Python codes for the machine learning assignments as mentioned in the course of ML. Following with NumPy, Scipy, Pandas and Matplotlib
 
 # Assignments
 
