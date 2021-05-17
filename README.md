@@ -14,7 +14,7 @@ The Following course on Machine Learning on Coursera, the assignments of this co
  
  4 [Neural Network](https://github.com/Devanshu-singh-VR/Machine-Learning-Python/tree/main/Machine%20Learning/4.increment%20in%20perfornance%20bias%20and%20varience)
  
- 5 [Support Vactor Machine (SVM)](https://github.com/Devanshu-singh-VR/Machine-Learning-Python/tree/main/Machine%20Learning/5.SVM%20(for%20classification))
+ 5 [Support Vector Machine (SVM)](https://github.com/Devanshu-singh-VR/Machine-Learning-Python/tree/main/Machine%20Learning/5.SVM%20(for%20classification))
  
  6 [K-Means Clustering](https://github.com/Devanshu-singh-VR/Machine-Learning-Python/tree/main/Machine%20Learning/6.clustering)
  
