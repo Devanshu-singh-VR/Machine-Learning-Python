@@ -3,3 +3,7 @@
 # Machine Learning
 
 The Following course on Machine Learning on Coursera, the assignments of this course are concatinated with MATLAB, as we know that Python is mostly upvoted language for machine learning. In this repositery you will find the Python codes for the machine learning assignments as mentioned in the course of ML.
+
+# Assignments
+
+https://github.com/Devanshu-singh-VR/Machine-Learning-Python/tree/main/Machine%20Learning/1.linear%20regression
